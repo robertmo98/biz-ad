@@ -1,0 +1,21 @@
+.grid {
+  display: flex;
+  justify-content: space-around;
+  gap: 30px;
+  margin: 10px 30px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+}
+
+.ad-number {
+  border-radius: 5px;
+  border: solid black 1px;
+  background-color: rgb(238, 235, 235);
+  width: fit-content;
+  margin: 20px 0px 0px 15px;
+  font-size: 10px;
+}
